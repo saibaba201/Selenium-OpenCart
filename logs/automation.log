@@ -1,0 +1,13 @@
+2024-09-24 13:42:25 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\user\eclipse-workspace\sdetopencart\master.xml"
+2024-09-24 13:42:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\user\eclipse-workspace\sdetopencart\master.xml
+
+2024-09-24 13:42:38 INFO  TC001_AccountRegistrationTest:18 - **********Test Case started -> TC001_AccountRegistrationTest*************
+2024-09-24 13:42:38 INFO  TC001_AccountRegistrationTest:21 - HomePage Clicked
+2024-09-24 13:42:40 INFO  TC001_AccountRegistrationTest:23 - Register Link clicked
+2024-09-24 13:42:40 INFO  TC001_AccountRegistrationTest:25 - Provided Registration Details
+2024-09-24 13:42:42 INFO  TC001_AccountRegistrationTest:34 - Clicked Submit button
+2024-09-24 13:42:46 INFO  TC_002LoginTest:16 - *******verify_loginTest Started********
+2024-09-24 13:42:46 INFO  TC_002LoginTest:20 - *******Login Page Started********
+2024-09-24 13:42:47 INFO  TC_002LoginTest:25 - ************Account Page****************
+2024-09-24 13:42:47 INFO  TC_002LoginTest:29 - *******verify_loginTest Success********
